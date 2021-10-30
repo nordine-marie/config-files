@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+#My own aliases
+
+alias ll='ls -lah'
+alias localserver='ssh support@192.168.1.69'
+alias mongostart='brew services start mongodb-community@4.4'
+alias c="clear"
+alias 3A="cd ~/NoSync/TSP/3A"
+alias distML="ssh marie_n@157.159.94.112"
+alias vite="open -a vite"
+alias md="macdown"
